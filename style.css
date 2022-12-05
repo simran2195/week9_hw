@@ -1,0 +1,18 @@
+h1 {
+    width:500px;
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+    text-align: center;
+}
+
+img{
+    text-align: center;
+}
+
+div {
+    border: 2px solid;
+    position: absolute;
+    top: 35%;
+    transform: translate(0, -50%);
+    padding: 10px;
+  }
